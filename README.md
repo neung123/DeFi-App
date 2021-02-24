@@ -10,5 +10,5 @@ _Custom RPC as below_<br/>
 1. Import your Ganache account with private key<br/>
 ![Ganache account](/readme/3.jpg)<br/>
 1. Open the [site](https://defi-ppv-srun.herokuapp.com/)
-<br/>
-![web app](/readme/4.jpg)
+
+![Ganache account](/readme/4.jpg)<br/>
